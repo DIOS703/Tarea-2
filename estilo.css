@@ -1,0 +1,18 @@
+body{
+    background-color: grey;;
+    font-family: Impact;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    color:whitesmoke;
+}
+.hola1{
+    text-align: right;
+}
+#nombre{
+    text-align: right;
+}
+#descripcion{
+    text-align: left;
+}
+.tablas{
+    font-family: sans-serif;
+}
